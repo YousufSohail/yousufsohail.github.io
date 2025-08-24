@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to My Digital Space
+title: Home
 ---
 
 # Hello, I'm Yousuf Sohail 👋
