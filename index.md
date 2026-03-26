@@ -1,34 +1,29 @@
----
-layout: home
-title: Home
----
+I lead engineering teams that ship products millions of people use.
 
-# Hello, I'm Yousuf Sohail 👋
+Currently Engineering Manager of the Consumer Experience Squad at [Cashia](https://cashia.com) — a fintech building payments infrastructure for Africa. My squad owns everything a Cashia customer touches: Mobile (Android + iOS via KMM), Web, and Onboarding. 5 engineers, 3 platforms, one mission.
 
-Welcome to my personal website! I'm a passionate software developer who loves building innovative solutions and exploring the latest technologies.
+Before this, I spent 13 years as a mobile engineer shipping at scale — 120M+ users at Delivery Hero, 1M+ at Airlift, card and BNPL products at Tamara.
 
-## What You'll Find Here
+I write about Android, Kotlin, KMM, engineering management, and occasionally life.
 
-- **Technical Blog Posts**: Insights on programming, software architecture, and industry trends
-- **Project Showcases**: Cool projects I've worked on and lessons learned
-- **Learning Journey**: My experiences with new technologies and frameworks
-- **Thoughts & Ideas**: Musings on tech, productivity, and continuous learning
+Based in Dubai. Building remotely with a team in Nairobi.
 
-## Currently Working On
+## What I'm doing now
 
-- Exploring modern web technologies and frameworks
-- Building scalable applications and systems
-- Contributing to open-source projects
-- Sharing knowledge with the developer community
+- Leading the Consumer Experience Squad at Cashia — establishing processes, driving architecture, running 1:1s
+- Learning what good engineering management actually looks like in practice
+- Writing about the transition from IC to EM — [start here](/writing/ic-to-em-first-30-days/)
+- Developing [Asma ul-Husna](https://asma-ulhusna.vercel.app/) — a clean app for Allah's 99 names
 
-## Let's Connect
+## Get in touch
 
-Feel free to reach out if you'd like to collaborate on a project, discuss technology, or just say hello!
+- [LinkedIn](https://linkedin.com/in/yousufsohail)
+- [GitHub](https://github.com/yousufsohail)
+- [Email](mailto:myousufsohail@gmail.com)
 
-- 📧 [hi@yousufsohail.com](mailto:hi@yousufsohail.com)
-- 💼 [GitHub](https://github.com/yousufsohail)
-- 🐦 [Twitter](https://twitter.com/_yousufsohail)
+## Elsewhere
 
----
-
-*"The best way to learn is by doing, and the best way to grow is by sharing."*
+- [/now](/now) — what I'm focused on right now
+- [/writing](/writing) — thoughts on code, craft, and career
+- [/projects](/projects) — things I've built
+- [/uses](/uses) — tools and setup
