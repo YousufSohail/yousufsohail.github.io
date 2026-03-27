@@ -55,7 +55,7 @@ I trek when I can. Play table tennis badly. Read everything from technical paper
 
 ## Connect
 
-Best way to reach me is [email](mailto:myousufsohail@gmail.com) or [LinkedIn](https://linkedin.com/in/yousufsohail).
+Best way to reach me is [email](mailto:hi@yousufsohail.com) or [LinkedIn](https://linkedin.com/in/yousufsohail).
 
 ---
 
