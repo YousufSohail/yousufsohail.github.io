@@ -22,7 +22,7 @@ Still following AI/ML developments — curious about where AI-assisted developme
 
 ## Building
 
-**[Asma ul-Husna](https://asma-ulhusna.vercel.app/)** — A simple, clean web app for the 99 names of Allah. No ads, no distractions. Still iterating.
+**[dawatnama.app](https://dawatnama.app)** — digital wedding and event invitations. Started as a way to learn modern web development (Next.js, Tailwind). Turns out people actually want to use it.
 
 Sketching ideas for an Islamic finance app that handles Zakat calculation properly. Too many apps get the Hijri calendar wrong.
 

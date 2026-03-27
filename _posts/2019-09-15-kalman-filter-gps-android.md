@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kalman Filtering GPS on Android: How I Cut Location Complaints by 30%"
+title: "I used a Kalman filter to fix GPS on cheap phones"
 date: 2019-09-15
 categories: android development
 permalink: /writing/kalman-filter-gps-android/

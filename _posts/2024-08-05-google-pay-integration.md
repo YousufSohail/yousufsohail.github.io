@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Integrating Google Pay: What the Docs Don't Tell You"
+title: "What the Google Pay docs don't tell you"
 date: 2024-08-05
 categories: android fintech development
 permalink: /writing/google-pay-integration/

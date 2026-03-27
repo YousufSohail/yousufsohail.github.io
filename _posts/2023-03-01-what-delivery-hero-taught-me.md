@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What 18 Months at Delivery Hero Taught Me About Engineering at Scale"
+title: "What Delivery Hero taught me"
 date: 2023-03-01
 categories: career engineering
 permalink: /writing/what-delivery-hero-taught-me/

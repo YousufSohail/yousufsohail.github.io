@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Tools in My Android Workflow: 12 Months In, Here's What Stayed"
+title: "Which AI tools survived a year in my workflow"
 date: 2025-06-15
 categories: android ai productivity
 permalink: /writing/ai-tools-android-workflow/

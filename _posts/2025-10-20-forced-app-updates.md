@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Case for Forced App Updates (And How to Build Them Right)"
+title: "Force-update your app without making users hate you"
 date: 2025-10-20
 categories: android development product
 permalink: /writing/forced-app-updates/

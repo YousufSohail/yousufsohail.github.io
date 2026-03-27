@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feature Flags on Android: The Framework We Built at Cashia"
+title: "The feature flag framework we shipped at Cashia"
 date: 2025-09-10
 categories: android development engineering
 permalink: /writing/feature-flags-android/

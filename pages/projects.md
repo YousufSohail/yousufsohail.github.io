@@ -6,14 +6,14 @@ permalink: /projects/
 
 Things I've built. Some for millions, some for myself.
 
-## Current
+## Side Projects
 
-### Asma ul-Husna
-*2024 — ongoing*
+### dawatnama.app
+*2026 — ongoing*
 
-[asma-ulhusna.vercel.app](https://asma-ulhusna.vercel.app/)
+[dawatnama.app](https://dawatnama.app)
 
-Simple web app for the 99 names of Allah. Clean, fast, no distractions. Built because every other app had too many features or ads.
+Beautiful digital invitations for weddings and events. Built it because every desi invitation app was either ugly or overpriced. A weekend project that stuck — and my excuse to learn modern web development properly (Next.js, Tailwind, Vercel).
 
 **Tech:** Next.js, Tailwind, Vercel
 
@@ -48,7 +48,7 @@ Built the entire card issuance feature on Android from scratch — architecture,
 ### Foodpanda & Sister Apps
 *2021 — 2023*
 
-Growth features for 120M+ users across 20 countries at Delivery Hero. Spearheaded Jetpack Compose adoption (~200% faster UI development), A/B testing infrastructure, led KMM evaluation R&D.
+Growth features for 120M+ users across 20 countries at Delivery Hero. Spearheaded Jetpack Compose adoption (~3x faster UI development), A/B testing infrastructure, led KMM evaluation R&D.
 
 ### Airlift Consumer App
 *2020 — 2021*

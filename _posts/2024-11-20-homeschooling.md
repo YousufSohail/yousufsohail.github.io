@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Why We're Homeschooling"
+title: "Why we're homeschooling"
 date: 2024-11-20
 categories: life family
+permalink: /writing/homeschooling/
 ---
 
 My wife and I are homeschooling our kids.

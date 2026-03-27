@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From IC to EM: What Actually Changed in My First 30 Days"
+title: "My first 30 days as an engineering manager"
 date: 2026-03-10
 categories: career engineering management
 permalink: /writing/ic-to-em-first-30-days/

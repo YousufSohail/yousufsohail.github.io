@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KMM in Production: 6 Months of Real Lessons"
+title: "Six months of KMM in production"
 date: 2026-01-15
 categories: android development kotlin kmm
 permalink: /writing/kmm-in-production/

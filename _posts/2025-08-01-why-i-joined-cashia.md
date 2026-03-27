@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I Said Yes to Nairobi: Joining a Fintech Building for Africa"
+title: "Why I said yes to Nairobi"
 date: 2025-08-01
 categories: career life
 permalink: /writing/why-i-joined-cashia/

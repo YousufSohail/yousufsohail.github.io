@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nairobi Changed How I Think About the Code I Write"
+title: "Nairobi changed how I think about the code I write"
 date: 2025-12-10
 categories: life career
 permalink: /writing/nairobi-changed-how-i-think/

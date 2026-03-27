@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A/B Testing Across 120M Users: What Actually Works"
+title: "A/B testing at the scale where it breaks"
 date: 2023-01-15
 categories: android development product
 permalink: /writing/ab-testing-at-scale/

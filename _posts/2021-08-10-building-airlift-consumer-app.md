@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building a Consumer App from Zero: What I Learned at Airlift"
+title: "From first commit to a million users"
 date: 2021-08-10
 categories: android development career
 permalink: /writing/building-airlift-consumer-app/

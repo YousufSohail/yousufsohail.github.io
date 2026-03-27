@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building a Payment Card Feature on Android: Architecture Deep Dive"
+title: "Architecting a payment card from scratch"
 date: 2024-03-20
 categories: android fintech architecture
 permalink: /writing/tamara-card-architecture/

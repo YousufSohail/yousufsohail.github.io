@@ -1,16 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Yousuf Sohail
-email: hi@yousufsohail.com
+email: myousufsohail@gmail.com
 description: >-
   Engineering Manager and product engineer with 13+ years building mobile apps at scale.
   Writing about Android, Kotlin, KMM, team leadership, and things that matter.
@@ -18,6 +8,20 @@ baseurl: ""
 url: "https://yousufsohail.github.io"
 twitter_username: _yousufsohail
 github_username: yousufsohail
+
+# Navigation order
+header_pages:
+  - about.md
+  - pages/writing.md
+  - pages/projects.md
+  - pages/now.md
+  - pages/uses.md
+  - pages/cv.md
+
+# Exclude non-site files from Jekyll build
+exclude:
+  - AGENTS.md
+  - CLAUDE.md
 
 # Build settings
 theme: minima

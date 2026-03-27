@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "The Art of Vibe Coding"
+title: "The art of vibe coding"
 date: 2024-11-15
 categories: development
+permalink: /writing/vibe-coding/
 ---
 
 I've been coding professionally for 12 years. Followed every methodology - Agile, Scrum, TDD, DDD, whatever-DD. But lately, I've been doing something different.
@@ -52,7 +53,7 @@ That excitement about a particular approach? That's your brain recognizing a goo
 
 ## The Balance
 
-I'm not saying abandon all structure. At Cashia, we have sprints and deadlines. But within that structure, I find space to vibe.
+I'm not saying abandon all structure. At work, we have sprints and deadlines. But within that structure, I find space to vibe.
 
 Monday morning? I'll tackle that payment flow refactor I'm excited about.
 
@@ -61,7 +62,7 @@ Thursday afternoon when I'm dragging? I'll do the boring ticket.
 ## Results
 
 Since I started vibe coding:
-- Shipped Asma ul-Husna in 2 days (was planning for weeks)
+- Built a side project in a weekend that I'd been overthinking for weeks
 - Solved three "impossible" bugs by following hunches
 - Actually enjoyed refactoring (who knew?)
 - Code reviews got better - "This feels really clean"

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "We Adopted Jetpack Compose Early at Delivery Hero. Here's What Happened."
-date: 2022-06-20
+title: "Compose before it was ready"
+date: 2023-05-20
 categories: android development jetpack-compose
 permalink: /writing/jetpack-compose-early-adoption/
 ---
@@ -73,7 +73,7 @@ It shipped. No incidents. We expanded scope.
 
 By Q1 2023:
 - ~40% of new UI code written in Compose
-- New screen development time down ~200% for UI-heavy screens
+- New screen development ~3x faster for UI-heavy screens
 - UI-related bug counts in Compose screens measurably lower than XML equivalents
 - Team consistently rated Compose as the improvement most improving daily work
 

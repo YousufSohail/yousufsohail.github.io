@@ -1,0 +1,318 @@
+---
+---
+
+// sive.rs-inspired styling for yousufsohail.github.io
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 40em;
+  margin: 0 auto;
+  padding: 0 1em;
+  font-family: Georgia, serif;
+  font-size: 20px;
+  line-height: 1.5;
+  background-color: #faf9f5;
+  color: #000;
+}
+
+// ── Masthead ──
+
+header#masthead {
+  margin: 1em 0 2em 0;
+
+  > a {
+    color: #000;
+    text-decoration: none;
+    font-size: 2.5em;
+    line-height: 1;
+    font-weight: normal;
+
+    &:visited { color: #000; }
+    &:hover { text-decoration: none; }
+  }
+
+  nav {
+    margin-top: 0.5em;
+
+    a {
+      font-size: 0.8em;
+      color: #666;
+      text-decoration: none;
+      margin-right: 1.2em;
+
+      &:visited { color: #666; }
+      &:hover { color: #20b; text-decoration: underline; }
+    }
+  }
+}
+
+// ── Links ──
+
+a {
+  color: #20b;
+  text-decoration: none;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  &:visited { color: #20b; }
+  &:hover { text-decoration: underline; }
+}
+
+// ── Headings ──
+
+h1, h2, h3 {
+  font-weight: normal;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.4em;
+  margin-top: 2em;
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  small {
+    margin-left: 1em;
+    font-size: 0.7em;
+    color: #666;
+    font-weight: normal;
+  }
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-top: 1.5em;
+}
+
+// ── Body text ──
+
+p {
+  margin: 1em 0;
+}
+
+blockquote {
+  margin: 1.5em 2em;
+  color: #444;
+  border-left: none;
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 3em 0;
+}
+
+// ── Lists ──
+
+ul, ol {
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.75em;
+}
+
+// ── Homepage ──
+
+body.home main section {
+  margin-bottom: 3em;
+}
+
+body.home main ul {
+  padding-left: 0;
+}
+
+body.home main ul li {
+  list-style-type: none;
+}
+
+// ── Definition lists (projects) ──
+
+dl {
+  margin: 0;
+}
+
+dt {
+  margin-top: 1.5em;
+  font-size: 1.1em;
+
+  &:first-child {
+    margin-top: 0.5em;
+  }
+}
+
+dd {
+  margin-left: 0;
+  margin-bottom: 0.5em;
+  color: #444;
+}
+
+// ── Code ──
+
+pre {
+  overflow-x: auto;
+  background-color: #2d2d2d;
+  color: #ccc;
+  padding: 1em;
+  border-radius: 4px;
+  line-height: 1.4;
+  font-size: 0.8em;
+}
+
+code {
+  font-size: 0.85em;
+  font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+}
+
+p code, li code {
+  background-color: #eee;
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+}
+
+// ── Images ──
+
+img, iframe {
+  max-width: 100%;
+  display: block;
+}
+
+img {
+  height: auto;
+}
+
+// ── Post meta ──
+
+.post-date {
+  color: #666;
+  font-size: 0.9em;
+  margin-top: -0.5em;
+  margin-bottom: 2em;
+}
+
+// ── Footer ──
+
+footer {
+  margin-top: 4em;
+  padding: 1em 0;
+  border-top: 1px solid #ddd;
+  color: #999;
+  font-size: 0.75em;
+}
+
+// ── Tables ──
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.5em;
+  text-align: left;
+}
+
+// ── Responsive ──
+
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 18px;
+  }
+
+  header#masthead > a {
+    font-size: 2em;
+  }
+
+  h1 {
+    font-size: 1.6em;
+  }
+
+  pre {
+    font-size: 0.75em;
+  }
+}
+
+// ── Dark mode ──
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1917;
+    color: #d1cdca;
+  }
+
+  a {
+    color: #7aa5f0;
+    &:visited { color: #7aa5f0; }
+  }
+
+  h1, h2, h3 {
+    color: #d1cdca;
+  }
+
+  h2 a {
+    color: #d1cdca;
+  }
+
+  header#masthead > a {
+    color: #d1cdca;
+    &:visited { color: #d1cdca; }
+  }
+
+  header#masthead nav a {
+    color: #888;
+    &:visited { color: #888; }
+    &:hover { color: #7aa5f0; }
+  }
+
+  .post-date, small, footer {
+    color: #888;
+  }
+
+  dd {
+    color: #aaa;
+  }
+
+  blockquote {
+    color: #999;
+  }
+
+  pre {
+    background-color: #2a2a2a;
+    color: #ccc;
+  }
+
+  p code, li code {
+    background-color: #333;
+    color: #d1cdca;
+  }
+
+  hr {
+    border-top-color: #444;
+  }
+
+  footer {
+    border-top-color: #444;
+  }
+
+  th, td {
+    border-color: #444;
+  }
+}

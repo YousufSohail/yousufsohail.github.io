@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We Evaluated KMM for 120 Million Users. Here's Our Honest Assessment."
+title: "KMM for 120 million users: an honest assessment"
 date: 2022-12-10
 categories: android development kotlin kmm
 permalink: /writing/kmm-evaluation/
